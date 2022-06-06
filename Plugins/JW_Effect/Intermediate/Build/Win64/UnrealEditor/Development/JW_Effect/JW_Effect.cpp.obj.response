@@ -1,6 +1,6 @@
-E:\github\KGCA41TeamProject\Plugins\JW_Effect\Source\JW_Effect\Private\JW_Effect.cpp
+D:\githubSkill\TeamProject\Plugins\JW_Effect\Source\JW_Effect\Private\JW_Effect.cpp
 /I .
-/I E:\github\KGCA41TeamProject\Plugins\JW_Effect\Source\JW_Effect\Private
+/I D:\githubSkill\TeamProject\Plugins\JW_Effect\Source\JW_Effect\Private
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -252,8 +252,8 @@ E:\github\KGCA41TeamProject\Plugins\JW_Effect\Source\JW_Effect\Private\JW_Effect
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController
 /I Developer\AnimationDataController\Public
-/I E:\github\KGCA41TeamProject\Plugins\JW_Effect\Source
-/I E:\github\KGCA41TeamProject\Plugins\JW_Effect\Source\JW_Effect\Public
+/I D:\githubSkill\TeamProject\Plugins\JW_Effect\Source
+/I D:\githubSkill\TeamProject\Plugins\JW_Effect\Source\JW_Effect\Public
 /I ThirdParty\mimalloc\include
 /I ThirdParty\LibTiff\Source\Win64
 /I ThirdParty\LibTiff\Source
@@ -270,16 +270,16 @@ E:\github\KGCA41TeamProject\Plugins\JW_Effect\Source\JW_Effect\Private\JW_Effect
 /I ThirdParty\PhysX3\PhysX_3.4\Include\geometry
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"E:\github\KGCA41TeamProject\Intermediate\Build\Win64\KGCA41TeamProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"E:\github\KGCA41TeamProject\Plugins\JW_Effect\Intermediate\Build\Win64\UnrealEditor\Development\JW_Effect\Definitions.JW_Effect.h"
-/Yu"E:\github\KGCA41TeamProject\Intermediate\Build\Win64\KGCA41TeamProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"E:\github\KGCA41TeamProject\Intermediate\Build\Win64\KGCA41TeamProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"E:\github\KGCA41TeamProject\Plugins\JW_Effect\Intermediate\Build\Win64\UnrealEditor\Development\JW_Effect\JW_Effect.cpp.obj"
-/sourceDependencies E:\github\KGCA41TeamProject\Plugins\JW_Effect\Intermediate\Build\Win64\UnrealEditor\Development\JW_Effect\JW_Effect.cpp.json
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.20348.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.20348.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.20348.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.20348.0\winrt"
+/FI"D:\githubSkill\TeamProject\Intermediate\Build\Win64\KGCA41TeamProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"D:\githubSkill\TeamProject\Plugins\JW_Effect\Intermediate\Build\Win64\UnrealEditor\Development\JW_Effect\Definitions.JW_Effect.h"
+/Yu"D:\githubSkill\TeamProject\Intermediate\Build\Win64\KGCA41TeamProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\githubSkill\TeamProject\Intermediate\Build\Win64\KGCA41TeamProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"D:\githubSkill\TeamProject\Plugins\JW_Effect\Intermediate\Build\Win64\UnrealEditor\Development\JW_Effect\JW_Effect.cpp.obj"
+/sourceDependencies D:\githubSkill\TeamProject\Plugins\JW_Effect\Intermediate\Build\Win64\UnrealEditor\Development\JW_Effect\JW_Effect.cpp.json
 /Zc:inline
 /nologo
 /Oi

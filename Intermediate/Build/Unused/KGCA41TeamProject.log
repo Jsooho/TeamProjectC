@@ -1,0 +1,12 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\kgca370\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (D:\githubSkill\TeamProject).
+  Creating makefile for KGCA41TeamProjectEditor (no existing makefile)
+UnrealBuildTool : warning : Couldn't parse '<<<<<<< Updated upstream' in UnrealBuildTool.ConfigFileSection of D:\githubSkill\TeamProject\Config\DefaultEngine.ini
+UnrealBuildTool : warning : Couldn't parse '=======' in UnrealBuildTool.ConfigFileSection of D:\githubSkill\TeamProject\Config\DefaultEngine.ini
+UnrealBuildTool : warning : Couldn't parse '<<<<<<< HEAD' in UnrealBuildTool.ConfigFileSection of D:\githubSkill\TeamProject\Config\DefaultEngine.ini
+UnrealBuildTool : warning : Couldn't parse '=======' in UnrealBuildTool.ConfigFileSection of D:\githubSkill\TeamProject\Config\DefaultEngine.ini
+UnrealBuildTool : warning : Couldn't parse '>>>>>>> 9ae54d5fbf03339b51a8ba8af463b66027272527' in UnrealBuildTool.ConfigFileSection of D:\githubSkill\TeamProject\Config\DefaultEngine.ini
+UnrealBuildTool : warning : Couldn't parse '>>>>>>> Stashed changes' in UnrealBuildTool.ConfigFileSection of D:\githubSkill\TeamProject\Config\DefaultEngine.ini
+  Target is up to date
+  Total execution time: 1.90 seconds

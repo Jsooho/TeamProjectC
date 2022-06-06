@@ -1,6 +1,6 @@
-C:\Users\kgca409992\Documents\GitHub\KGCA41TeamProject\Plugins\DS_Ui\Source\DS_Ui\Private\DS_Ui.cpp
+E:\github\KGCA41TeamProject\Plugins\DS_Ui\Source\DS_Ui\Private\DS_Ui.cpp
 /I .
-/I C:\Users\kgca409992\Documents\GitHub\KGCA41TeamProject\Plugins\DS_Ui\Source\DS_Ui\Private
+/I E:\github\KGCA41TeamProject\Plugins\DS_Ui\Source\DS_Ui\Private
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -252,8 +252,8 @@ C:\Users\kgca409992\Documents\GitHub\KGCA41TeamProject\Plugins\DS_Ui\Source\DS_U
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController
 /I Developer\AnimationDataController\Public
-/I C:\Users\kgca409992\Documents\GitHub\KGCA41TeamProject\Plugins\DS_Ui\Source
-/I C:\Users\kgca409992\Documents\GitHub\KGCA41TeamProject\Plugins\DS_Ui\Source\DS_Ui\Public
+/I E:\github\KGCA41TeamProject\Plugins\DS_Ui\Source
+/I E:\github\KGCA41TeamProject\Plugins\DS_Ui\Source\DS_Ui\Public
 /I ThirdParty\mimalloc\include
 /I ThirdParty\LibTiff\Source\Win64
 /I ThirdParty\LibTiff\Source
@@ -274,12 +274,12 @@ C:\Users\kgca409992\Documents\GitHub\KGCA41TeamProject\Plugins\DS_Ui\Source\DS_U
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Users\kgca409992\Documents\GitHub\KGCA41TeamProject\Intermediate\Build\Win64\KGCA41TeamProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"C:\Users\kgca409992\Documents\GitHub\KGCA41TeamProject\Plugins\DS_Ui\Intermediate\Build\Win64\UnrealEditor\Development\DS_Ui\Definitions.DS_Ui.h"
-/Yu"C:\Users\kgca409992\Documents\GitHub\KGCA41TeamProject\Intermediate\Build\Win64\KGCA41TeamProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\kgca409992\Documents\GitHub\KGCA41TeamProject\Intermediate\Build\Win64\KGCA41TeamProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"C:\Users\kgca409992\Documents\GitHub\KGCA41TeamProject\Plugins\DS_Ui\Intermediate\Build\Win64\UnrealEditor\Development\DS_Ui\DS_Ui.cpp.obj"
-/sourceDependencies C:\Users\kgca409992\Documents\GitHub\KGCA41TeamProject\Plugins\DS_Ui\Intermediate\Build\Win64\UnrealEditor\Development\DS_Ui\DS_Ui.cpp.json
+/FI"E:\github\KGCA41TeamProject\Intermediate\Build\Win64\KGCA41TeamProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"E:\github\KGCA41TeamProject\Plugins\DS_Ui\Intermediate\Build\Win64\UnrealEditor\Development\DS_Ui\Definitions.DS_Ui.h"
+/Yu"E:\github\KGCA41TeamProject\Intermediate\Build\Win64\KGCA41TeamProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"E:\github\KGCA41TeamProject\Intermediate\Build\Win64\KGCA41TeamProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"E:\github\KGCA41TeamProject\Plugins\DS_Ui\Intermediate\Build\Win64\UnrealEditor\Development\DS_Ui\DS_Ui.cpp.obj"
+/sourceDependencies E:\github\KGCA41TeamProject\Plugins\DS_Ui\Intermediate\Build\Win64\UnrealEditor\Development\DS_Ui\DS_Ui.cpp.json
 /Zc:inline
 /nologo
 /Oi

@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-DS_Ui.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"E:\github\KGCA41TeamProject\Intermediate\Build\Win64\KGCA41TeamProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"E:\github\KGCA41TeamProject\Plugins\DS_Ui\Intermediate\Build\Win64\UnrealEditor\Development\DS_Ui\DS_Ui.cpp.obj"
-"E:\github\KGCA41TeamProject\Plugins\DS_Ui\Intermediate\Build\Win64\UnrealEditor\Development\DS_Ui\Default.rc2.res"
-/OUT:"E:\github\KGCA41TeamProject\Plugins\DS_Ui\Intermediate\Build\Win64\UnrealEditor\Development\DS_Ui\UnrealEditor-DS_Ui.lib"
+"D:\githubSkill\TeamProject\Intermediate\Build\Win64\KGCA41TeamProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\githubSkill\TeamProject\Plugins\DS_Ui\Intermediate\Build\Win64\UnrealEditor\Development\DS_Ui\DS_Ui.cpp.obj"
+"D:\githubSkill\TeamProject\Plugins\DS_Ui\Intermediate\Build\Win64\UnrealEditor\Development\DS_Ui\Default.rc2.res"
+/OUT:"D:\githubSkill\TeamProject\Plugins\DS_Ui\Intermediate\Build\Win64\UnrealEditor\Development\DS_Ui\UnrealEditor-DS_Ui.lib"

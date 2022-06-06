@@ -63,5 +63,5 @@
 /DBUILD_ICON_FILE_NAME="\"..\\Build\\Windows\\Resources\\Default.ico\""
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_IDENTIFIER=KGCA41TeamProject
-/fo "C:\Users\kgca409992\Documents\GitHub\KGCA41TeamProject\Plugins\DS_Ui\Intermediate\Build\Win64\UnrealEditor\Development\DS_Ui\Default.rc2.res"
+/fo "E:\github\KGCA41TeamProject\Plugins\DS_Ui\Intermediate\Build\Win64\UnrealEditor\Development\DS_Ui\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"
