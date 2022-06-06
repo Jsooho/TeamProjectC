@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\githubskill\\kgca41teamproject\\plugins\\ds_ui\\source\\ds_ui\\private\\ds_ui.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\githubskill\\kgca41teamproject\\intermediate\\build\\win64\\kgca41teamprojecteditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\githubskill\\kgca41teamproject\\plugins\\ds_ui\\intermediate\\build\\win64\\unrealeditor\\debuggame\\ds_ui\\definitions.ds_ui.h",
+            "d:\\githubskill\\kgca41teamproject\\plugins\\ds_ui\\source\\ds_ui\\public\\ds_ui.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

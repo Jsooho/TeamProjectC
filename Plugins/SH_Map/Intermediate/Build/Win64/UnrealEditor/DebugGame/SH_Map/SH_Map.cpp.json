@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\githubskill\\kgca41teamproject\\plugins\\sh_map\\source\\sh_map\\private\\sh_map.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\githubskill\\kgca41teamproject\\intermediate\\build\\win64\\kgca41teamprojecteditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\githubskill\\kgca41teamproject\\plugins\\sh_map\\intermediate\\build\\win64\\unrealeditor\\debuggame\\sh_map\\definitions.sh_map.h",
+            "d:\\githubskill\\kgca41teamproject\\plugins\\sh_map\\source\\sh_map\\public\\sh_map.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
